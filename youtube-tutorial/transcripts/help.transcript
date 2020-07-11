@@ -1,0 +1,128 @@
+[
+  {
+    "conversation": {
+      "id": "3k2rxrGYZszLGXoh7oY4IlPiLPA="
+    },
+    "id": "1",
+    "recipient": {
+      "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+      "name": "edUi Conference",
+      "role": "bot"
+    },
+    "from": {
+      "id": "cXHWVXs0wL9H8WYJLuk+BoOr0YA=",
+      "name": "Anup",
+      "role": "user"
+    },
+    "timestamp": "2020-07-11T19:49:55.100Z",
+    "type": "conversationUpdate",
+    "channelId": "chatdown",
+    "membersAdded": [
+      {
+        "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+        "name": "edUi Conference",
+        "role": "bot"
+      }
+    ],
+    "membersRemoved": []
+  },
+  {
+    "conversation": {
+      "id": "3k2rxrGYZszLGXoh7oY4IlPiLPA="
+    },
+    "id": "2",
+    "recipient": {
+      "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+      "name": "edUi Conference",
+      "role": "bot"
+    },
+    "from": {
+      "id": "cXHWVXs0wL9H8WYJLuk+BoOr0YA=",
+      "name": "Anup",
+      "role": "user"
+    },
+    "text": "help",
+    "timestamp": "2020-07-11T19:49:57.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "3k2rxrGYZszLGXoh7oY4IlPiLPA="
+    },
+    "id": "3",
+    "recipient": {
+      "id": "cXHWVXs0wL9H8WYJLuk+BoOr0YA=",
+      "name": "Anup",
+      "role": "user"
+    },
+    "from": {
+      "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+      "name": "edUi Conference",
+      "role": "bot"
+    },
+    "text": "",
+    "timestamp": "2020-07-11T19:49:59.100Z",
+    "type": "message",
+    "channelId": "chatdown",
+    "suggestedActions": {
+      "actions": [
+        {
+          "title": "I want to know about a topic",
+          "type": "imBack",
+          "value": "I want to know about a topic"
+        },
+        {
+          "title": "I want to know about a speaker",
+          "type": "imBack",
+          "value": "I want to know about a speaker"
+        },
+        {
+          "title": "I want to know about a venue",
+          "type": "imBack",
+          "value": "I want to know about a venue"
+        }
+      ]
+    }
+  },
+  {
+    "conversation": {
+      "id": "3k2rxrGYZszLGXoh7oY4IlPiLPA="
+    },
+    "id": "4",
+    "recipient": {
+      "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+      "name": "edUi Conference",
+      "role": "bot"
+    },
+    "from": {
+      "id": "cXHWVXs0wL9H8WYJLuk+BoOr0YA=",
+      "name": "Anup",
+      "role": "user"
+    },
+    "text": "I want to know about a topic",
+    "timestamp": "2020-07-11T19:50:01.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "3k2rxrGYZszLGXoh7oY4IlPiLPA="
+    },
+    "id": "5",
+    "recipient": {
+      "id": "cXHWVXs0wL9H8WYJLuk+BoOr0YA=",
+      "name": "Anup",
+      "role": "user"
+    },
+    "from": {
+      "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+      "name": "edUi Conference",
+      "role": "bot"
+    },
+    "text": "You can ask:\r\n* _Who is speaking about bots?_\r\n* _Where is the Bot Framework talk?_\r\n* _What time is the Bot Framework talk?_",
+    "timestamp": "2020-07-11T19:50:03.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  }
+]

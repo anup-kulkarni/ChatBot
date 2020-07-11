@@ -1,0 +1,191 @@
+[
+  {
+    "conversation": {
+      "id": "CKiizbI8tcJjNUdD+8+e9AoDZpA="
+    },
+    "id": "17",
+    "recipient": {
+      "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+      "name": "edUi Conference",
+      "role": "bot"
+    },
+    "from": {
+      "id": "cXHWVXs0wL9H8WYJLuk+BoOr0YA=",
+      "name": "Anup",
+      "role": "user"
+    },
+    "timestamp": "2020-07-11T19:50:21.400Z",
+    "type": "conversationUpdate",
+    "channelId": "chatdown",
+    "membersAdded": [
+      {
+        "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+        "name": "edUi Conference",
+        "role": "bot"
+      }
+    ],
+    "membersRemoved": []
+  },
+  {
+    "conversation": {
+      "id": "CKiizbI8tcJjNUdD+8+e9AoDZpA="
+    },
+    "id": "18",
+    "recipient": {
+      "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+      "name": "edUi Conference",
+      "role": "bot"
+    },
+    "from": {
+      "id": "cXHWVXs0wL9H8WYJLuk+BoOr0YA=",
+      "name": "Anup",
+      "role": "user"
+    },
+    "text": "What time is the talk bots?",
+    "timestamp": "2020-07-11T19:50:23.400Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "CKiizbI8tcJjNUdD+8+e9AoDZpA="
+    },
+    "id": "19",
+    "recipient": {
+      "id": "cXHWVXs0wL9H8WYJLuk+BoOr0YA=",
+      "name": "Anup",
+      "role": "user"
+    },
+    "from": {
+      "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+      "name": "edUi Conference",
+      "role": "bot"
+    },
+    "text": "Michael Szul is speaking on bots at 3:00-4:00pm on Monday.",
+    "timestamp": "2020-07-11T19:50:25.400Z",
+    "type": "message",
+    "channelId": "chatdown",
+    "suggestedActions": {
+      "actions": [
+        {
+          "title": "Add to List",
+          "type": "imBack",
+          "value": "Add to List"
+        },
+        {
+          "title": "Learn More",
+          "type": "imBack",
+          "value": "Learn More"
+        }
+      ]
+    }
+  },
+  {
+    "conversation": {
+      "id": "CKiizbI8tcJjNUdD+8+e9AoDZpA="
+    },
+    "id": "20",
+    "recipient": {
+      "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+      "name": "edUi Conference",
+      "role": "bot"
+    },
+    "from": {
+      "id": "cXHWVXs0wL9H8WYJLuk+BoOr0YA=",
+      "name": "Anup",
+      "role": "user"
+    },
+    "text": "What time is the talk on mobile development?",
+    "timestamp": "2020-07-11T19:50:27.400Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "CKiizbI8tcJjNUdD+8+e9AoDZpA="
+    },
+    "id": "21",
+    "recipient": {
+      "id": "cXHWVXs0wL9H8WYJLuk+BoOr0YA=",
+      "name": "Anup",
+      "role": "user"
+    },
+    "from": {
+      "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+      "name": "edUi Conference",
+      "role": "bot"
+    },
+    "text": "We have a few.",
+    "timestamp": "2020-07-11T19:50:29.400Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "CKiizbI8tcJjNUdD+8+e9AoDZpA="
+    },
+    "id": "22",
+    "recipient": {
+      "id": "cXHWVXs0wL9H8WYJLuk+BoOr0YA=",
+      "name": "Anup",
+      "role": "user"
+    },
+    "from": {
+      "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+      "name": "edUi Conference",
+      "role": "bot"
+    },
+    "text": "Richard L. Taylor Jr. is speaking on Xamarin Development at 1:00-2:00pm on Monday.",
+    "timestamp": "2020-07-11T19:50:31.400Z",
+    "type": "message",
+    "channelId": "chatdown",
+    "suggestedActions": {
+      "actions": [
+        {
+          "title": "Add to List",
+          "type": "imBack",
+          "value": "Add to List"
+        },
+        {
+          "title": "Learn More",
+          "type": "imBack",
+          "value": "Learn More"
+        }
+      ]
+    }
+  },
+  {
+    "conversation": {
+      "id": "CKiizbI8tcJjNUdD+8+e9AoDZpA="
+    },
+    "id": "23",
+    "recipient": {
+      "id": "cXHWVXs0wL9H8WYJLuk+BoOr0YA=",
+      "name": "Anup",
+      "role": "user"
+    },
+    "from": {
+      "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+      "name": "edUi Conference",
+      "role": "bot"
+    },
+    "text": "Also, Ashish Pathak is speaking on Progressive Web Apps at 1:00-2:00pm on Tuesday.",
+    "timestamp": "2020-07-11T19:50:33.400Z",
+    "type": "message",
+    "channelId": "chatdown",
+    "suggestedActions": {
+      "actions": [
+        {
+          "title": "Add to List",
+          "type": "imBack",
+          "value": "Add to List"
+        },
+        {
+          "title": "Learn More",
+          "type": "imBack",
+          "value": "Learn More"
+        }
+      ]
+    }
+  }
+]

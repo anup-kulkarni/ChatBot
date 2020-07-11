@@ -1,0 +1,21 @@
+{
+  "name": "youtube-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p .",
+    "start": "node ./server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^4.9.2",
+    "restify": "^8.5.1"
+   },
+  "devDependencies": {
+    "typescript": "^3.9.6",
+    "@types/restify": "^8.4.2"
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "chatBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "9d6113b0-c301-11ea-8ee7-8be878ae24b8",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\VS_CODE_WS\\ChatBot\\youtube-tutorial\\chatbot.bot"
+}
